@@ -31,4 +31,5 @@
 * Datasets from Yahoo!: https://webscope.sandbox.yahoo.com/
 * SherLock Dataset: http://bigdata.ise.bgu.ac.il/sherlock/#/
 * Weather archive by JMA: http://www.data.jma.go.jp/gmd/risk/obsdl/index.php
+* HTRC Extracted Features Datase: https://analytics.hathitrust.org/datasets
 
