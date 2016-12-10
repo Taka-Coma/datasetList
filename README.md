@@ -1,7 +1,7 @@
 # datasetList
 
 * Copyright (c) 2016 Takahiro Komamizu
-* License: GPL
+* License: MIT
 * Author homepage: https://takacomaprofile.wordpress.com/
 
 # Datasets
