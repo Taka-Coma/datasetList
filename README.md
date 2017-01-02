@@ -35,3 +35,7 @@
 * XML data in http://Data.gov: https://www.gpo.gov/fdsys/bulkdata/FR
 * MS MARCO Dataset: http://www.msmarco.org/dataset.aspx
 * YJ Captions 26k Dataset: https://github.com/yahoojapan/YJCaptions
+
+# Reference
+
+* http://stackoverflow.com/questions/381806/large-public-datasets/27085268#27085268
