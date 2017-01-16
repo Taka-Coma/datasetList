@@ -35,6 +35,8 @@
 * XML data in http://Data.gov: https://www.gpo.gov/fdsys/bulkdata/FR
 * MS MARCO Dataset: http://www.msmarco.org/dataset.aspx
 * YJ Captions 26k Dataset: https://github.com/yahoojapan/YJCaptions
+* Stack Overflow dataset in MSR 2013 mining challenge track: http://2013.msrconf.org/challenge.php#challenge_data
+* GitHub dataset in MSR 2014 mining challenge track: http://2014.msrconf.org/challenge.php
 
 # Reference
 
