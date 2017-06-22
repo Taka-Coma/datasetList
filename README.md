@@ -39,6 +39,7 @@
 * [GitHub dataset in MSR 2014 mining challenge track](http://2014.msrconf.org/challenge.php)
 * [MIMIC crinical dataset](https://mimic.physionet.org/about/mimic/)
 * [KDD cup archives](http://www.kdd.org/kdd-cup)
+* [Data Analytics at Texas A&M (DATA) Lab](http://people.tamu.edu/~guangzhou92/Data_Lab/Datasets.html)
 
 # Reference
 
