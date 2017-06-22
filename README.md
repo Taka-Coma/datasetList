@@ -42,5 +42,5 @@
 
 # Reference
 
-* [http://stackoverflow.com/questions/381806/large-public-datasets/27085268#27085268]
-* [https://github.com/caesar0301/awesome-public-datasets]
+* http://stackoverflow.com/questions/381806/large-public-datasets/27085268#27085268
+* https://github.com/caesar0301/awesome-public-datasets
