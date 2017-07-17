@@ -2,7 +2,7 @@
 
 * Copyright (c) 2016 Takahiro Komamizu
 * License: MIT
-* [Author homepage](https://takacomaprofile.wordpress.com/)
+* [Author homepage](http://taka-coma.pro/)
 
 # Datasets
 
