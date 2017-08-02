@@ -41,6 +41,7 @@
 * [KDD cup archives](http://www.kdd.org/kdd-cup)
 * [Data Analytics at Texas A&M (DATA) Lab](http://people.tamu.edu/~guangzhou92/Data_Lab/Datasets.html)
 * [ITダッシュボード](http://www.itdashboard.go.jp/)
+* [EEG / ERP data available for free public download](https://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html)
 
 # Reference
 
